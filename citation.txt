@@ -1,0 +1,6 @@
+@article{REPO-104,
+    author = "Liu, Songbai and Li, Jun and Lin, Qiuzhen and Tian, Ye and Tan, Kay Chen",
+    journal = "IEEE Transactions on Evolutionary Computation",
+    title = "{Learning to Accelerate Evolutionary Search for Large-scale Multiobjective Optimization}",
+    year = "2022"
+}
